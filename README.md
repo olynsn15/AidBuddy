@@ -7,16 +7,16 @@ AidBuddy is a life-saving mobile app designed to assist in emergency situations 
 Made by team Hira during iOS Foundation Cohort 19 \
 iOS Foundation is a a month-long, challenge-driven course designed specifically for undergraduate students by Apple Developer Academy @BINUS
 
-## FEATURES OF AIDBUDDY 
+## FEATURES OF AIDBUDDY :
 - Emergency First Aid Guide
 - Voice-Assisted Instructions 
 - Emergency Contact Integration
 - Health Articles
 
-## HIFI PROTOTYPE
+## HIFI PROTOTYPE :
 [AidBuddy Final HiFi Prototype](https://www.figma.com/file/nc5cisOSToFunap3ocgYdo/HiFi-(PUTIH)?type=design&node-id=1%3A1813&mode=design&t=Eej8lNSbmSNb5DJa-1)
 
-## TECH STACK
+## TECH STACK :
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
