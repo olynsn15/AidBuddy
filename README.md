@@ -6,35 +6,27 @@ AidBuddy is a life-saving mobile app designed to assist in emergency situations 
 
 > Built by Team Hira during **iOS Foundation Cohort 19**  
 > 📱 _iOS Foundation is a month-long, challenge-driven course designed specifically for undergraduate students by Apple Developer Academy @BINUS._
-
 <br>
 
 ## ✨ Features
-
 - 🩹 Emergency First Aid Guide  
 - 🗣️ Voice-Assisted Instructions  
 - 📞 Emergency Contact Integration  
 - 📰 Health Articles and Tips  
-
 <br>
 
 ## 🎨 Hi-Fi Prototype
-
 View the final high-fidelity UI design on Figma:  
 👉 [AidBuddy Final HiFi Prototype](https://www.figma.com/file/nc5cisOSToFunap3ocgYdo/HiFi-(PUTIH)?type=design&node-id=1%3A1813&mode=design&t=Eej8lNSbmSNb5DJa-1)
-
-<br><br>
+<br>
 
 ## 🛠️ Tech Stack
-
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
 <br>
 
 ## 📁 Project Structure
-
 ```
 AidBuddy/
 ├── Home Screen.xcodeproj/ # Xcode project file
@@ -79,17 +71,13 @@ AidBuddy/
 <br>
 
 ## 📌 Notes
-
 - All UI is built using **SwiftUI**.
 - The app is modularized for scalability (by components, views, and data models).
 - Designed for quick access to critical medical knowledge even in stressful situations.
-
 <br>
 
 ## 📣 Credits
-
 Developed by Team Hira during the **Apple Developer Academy @BINUS**  
 Special thanks to mentors, instructors, and the iOS Foundation team!
-
 <br><br>
 
