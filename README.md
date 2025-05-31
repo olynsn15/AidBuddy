@@ -7,7 +7,7 @@ AidBuddy is a life-saving mobile app designed to assist in emergency situations 
 > Built by Team Hira during **iOS Foundation Cohort 19**  
 > 📱 _iOS Foundation is a month-long, challenge-driven course designed specifically for undergraduate students by Apple Developer Academy @BINUS._
 
-<br><br>
+<br>
 
 ## ✨ Features
 
@@ -16,7 +16,7 @@ AidBuddy is a life-saving mobile app designed to assist in emergency situations 
 - 📞 Emergency Contact Integration  
 - 📰 Health Articles and Tips  
 
-<br><br>
+<br>
 
 ## 🎨 Hi-Fi Prototype
 
@@ -31,7 +31,7 @@ View the final high-fidelity UI design on Figma:
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-<br><br>
+<br>
 
 ## 📁 Project Structure
 
@@ -76,7 +76,7 @@ AidBuddy/
 │ ├── Guide.swift
 │ └── GuideModel.swift
 ```
-<br><br>
+<br>
 
 ## 📌 Notes
 
@@ -84,7 +84,7 @@ AidBuddy/
 - The app is modularized for scalability (by components, views, and data models).
 - Designed for quick access to critical medical knowledge even in stressful situations.
 
-<br><br>
+<br>
 
 ## 📣 Credits
 
