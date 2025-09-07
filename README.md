@@ -217,8 +217,9 @@ AidBuddy/
 ## Notes
 ```
 - All UI is built using SwiftUI.
-- Developed by Team Hira during iOS Foundation Cohort 19 held by Apple Developer Academy @BINUS
-- iOS Foundation is a month-long, challenge-driven course designed specifically for undergraduate students by Apple Developer Academy @BINUS
+
+Developed by Team Hira during iOS Foundation Cohort 19 held by Apple Developer Academy @BINUS
+iOS Foundation is a month-long, challenge-driven course designed specifically for undergraduate students by Apple Developer Academy @BINUS
 
 Special thanks to mentors, instructors, and the iOS Foundation team!
 ```
